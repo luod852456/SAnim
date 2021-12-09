@@ -1,4 +1,4 @@
-package com.luodong.sanim;
+package com.luodong.app;
 
 import org.junit.Test;
 
